@@ -31,5 +31,9 @@ pip install -r requirements.txt
 
 ### 2. . Download spaCy models
 python -m spacy download en_core_web_sm
+
+
 python -m spacy download en_core_web_lg
+
+
 python -m spacy download en_core_web_trf
