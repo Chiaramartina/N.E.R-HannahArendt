@@ -6,8 +6,9 @@ This project applies Named Entity Recognition (NER) techniques and XML/TEI annot
 - Annotate the text with semantically coherent XML tags.
 - Generate a structured list of mentioned people, inspired by the TEI format.
 
+---
 
-## ⚠️ Important Notice: Run on Google Colab
+### ⚠️ Important Notice: Run on Google Colab
 
 This project is **designed to run on [Google Colab](https://colab.research.google.com/)**, which provides:
 
@@ -20,7 +21,7 @@ This project is **designed to run on [Google Colab](https://colab.research.googl
 
 ---
 
-## ⚙️ Optional: Run Locally
+### ⚙️ Optional: Run Locally
 
 If you prefer to run the project locally, follow these steps to set up your environment:
 
