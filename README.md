@@ -6,6 +6,6 @@ This project applies Named Entity Recognition (NER) techniques and XML/TEI annot
 - Annotate the text with semantically coherent XML tags.
 - Generate a structured list of mentioned people, inspired by the TEI format.
 
-⚠️ Important Notice:
+### ⚠️ Important Notice:
 This project is designed to run in Google Colab.
 Colab provides a pre-configured Python environment with support for libraries like spaCy, and makes file handling and cloud execution easier—avoiding local setup or compatibility issues.
