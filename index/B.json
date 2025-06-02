@@ -1,0 +1,811 @@
+[
+  {
+    "tokens": [
+      "Badt-Strauss",
+      "Bertha",
+      "beschrieb",
+      "ihren",
+      "Artikeln",
+      "Welt",
+      "niemand",
+      "fühlt"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Badt-Strauss, Bertha"]
+  },
+  {
+    "tokens": [
+      "man",
+      "Unterstützung",
+      "Balzac",
+      "Regierung",
+      "unterstützte"
+    ],
+    "ner_tags": [0, 0, 2, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Balzac, Honoré de"]
+  },
+  {
+    "tokens": [
+      "Salo",
+      "Baron",
+      "Buch",
+      "Bedacht",
+      "wurden",
+      "selbstverständlich"
+    ],
+    "ner_tags": [2, 1, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Baron, Salo"]
+  },
+  {
+    "tokens": [
+      "Barrow",
+      "contributed",
+      "significantly",
+      "British",
+      "diplomacy"
+    ],
+    "ner_tags": [2, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng"],
+    "spans": ["PER: Barrow, Reginald Haynes"]
+  },
+  {
+    "tokens": [
+      "größte",
+      "exercice",
+      "deutschere",
+      "konfusere",
+      "gibt",
+      "nicht",
+      "Bärstecher",
+      "hilft"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bärstecher, Wilhelm"]
+  },
+  {
+    "tokens": [
+      "Bartholdy",
+      "was",
+      "German",
+      "art",
+      "patron"
+    ],
+    "ner_tags": [1, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng"],
+    "spans": ["PER: Bartholdy, Jacob Salomon"]
+  },
+  {
+    "tokens": [
+      "berichtet",
+      "Esther",
+      "Bates",
+      "jahrelang",
+      "Robinsons",
+      "Gedichte",
+      "abschrieb"
+    ],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bates, Esther"]
+  },
+  {
+    "tokens": [
+      "from",
+      "Baudelaire",
+      "Charles",
+      "not",
+      "ideologist",
+      "delighting",
+      "progress"
+    ],
+    "ner_tags": [0, 2, 1, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": ["PER: Baudelaire, Charles"]
+  },
+  {
+    "tokens": [
+      "Bauer",
+      "Karoline",
+      "geholfen",
+      "Gesetzen",
+      "nachgeholfen",
+      "Schulen"
+    ],
+    "ner_tags": [2, 1, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bauer, Karoline"]
+  },
+  {
+    "tokens": [
+      "Leben",
+      "Beausset",
+      "Louis",
+      "Fénelon",
+      "lieb",
+      "muß",
+      "jeder",
+      "nach",
+      "seiner",
+      "Art",
+      "lieben"
+    ],
+    "ner_tags": [0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Beausset, Louis François"]
+  },
+  {
+    "tokens": [
+      "warned",
+      "preface",
+      "Sibylle",
+      "Bedfords",
+      "review",
+      "insightful"
+    ],
+    "ner_tags": [0, 0, 1, 2, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": ["PER: Bedford, Sibylle"]
+  },
+  {
+  "tokens": [
+    "Beer-Hofmann",
+    "Peter",
+    "Altenberg",
+    "gave",
+    "Viennese",
+    "literature",
+    "European",
+    "standing",
+    "not",
+    "possessed",
+    "under",
+    "Grillparzer",
+    "Stifter"
+  ],
+  "ner_tags": [1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1],
+  "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+  "spans": ["PER: Beer-Hofmann, Richard"]
+  },
+  {
+    "tokens": [
+      "Die",
+      "Stiefschwester",
+      "Eva",
+      "Beerwald",
+      "in",
+      "England",
+      ",",
+      "der",
+      "Cousin",
+      "Ernst",
+      "Fürst",
+      "mit",
+      "seiner",
+      "Frau",
+      "Käte",
+      "in",
+      "Israel"
+    ],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 0],
+    "langs": [
+      "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu",
+      "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"
+    ],
+    "spans": ["PER: Beerwald, Eva"]
+  },
+  {
+    "tokens": [
+      "jedes",
+      "musikalische",
+      "Kind",
+      "den",
+      "dämonischen",
+      "Beethoven",
+      "van",
+      "Ludwig",
+      "zu",
+      "spielen"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 2, 1, 1, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Beethoven, Ludwig van"]
+  },
+  {
+    "tokens": [
+      "daß",
+      "die",
+      "zionistische",
+      "Organisation",
+      "unter",
+      "der",
+      "Führung",
+      "Ben",
+      "Gurions"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Ben-Gurion, David"]
+  },
+  {
+    "tokens": [
+      "dann",
+      "ist",
+      "allerdings",
+      "der",
+      "Fortschritt",
+      "besten",
+      "und",
+      "exaktesten",
+      "folgenden",
+      "Zeilen",
+      "aus",
+      "Walter",
+      "Benjamins",
+      "letztem",
+      "Werk",
+      "beschrieben"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0],
+    "langs": [
+      "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu",
+      "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"
+    ],
+    "spans": ["PER: Benjamin, Walter"]
+  },
+ {
+    "tokens": [
+      "He",
+      "remained",
+      "tied",
+      "Bentheim",
+      "Friedrich",
+      "who",
+      "returned",
+      "to",
+      "Westphalia",
+      "totally",
+      "ruined",
+      "man"
+    ],
+    "ner_tags": [0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0],
+    "langs": [
+      "eng", "eng", "eng", "eng", "eng", "eng", "eng",
+      "eng", "eng", "eng", "eng", "eng", "eng", "eng"
+    ],
+    "spans": ["PER: Bentheim, Wilhelm Friedrich Belgicus zu"]
+  },
+  {
+    "tokens": [
+      "mit",
+      "der",
+      "Charlotte",
+      "Beradt",
+      "sie",
+      "bekannt",
+      "gemacht",
+      "hatte"
+    ],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Beradt, Charlotte"]
+  },
+  {
+    "tokens": [
+      "sie",
+      "bestimmte",
+      "das",
+      "Wesentliche",
+      "des",
+      "Bergson",
+      "Henri",
+      "Denkens"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 2, 1, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bergson, Henri"]
+  },
+  {
+    "tokens": [
+      "Der",
+      "aus",
+      "Österreich",
+      "geflohene",
+      "Reiseschriftsteller",
+      "Richard",
+      "Bermann",
+      "machte",
+      "wohl"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bermann, Richard A."]
+  },
+  {
+    "tokens": [
+      "sehr",
+      "nah",
+      "wo",
+      "die",
+      "Bethmann",
+      "Friederike",
+      "wohnte"
+    ],
+    "ner_tags": [0, 0, 0, 0, 2, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bethmann, Friederike Augustine Conradine"]
+  },
+  {
+    "tokens": [
+      "Der",
+      "Laudator",
+      "Hans",
+      "Harder",
+      "Biermann-Ratjen",
+      "verwies"
+    ],
+    "ner_tags": [0, 0, 1, 1, 2, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Biermann-Ratjen, Hans Harder"]
+  },
+  {
+    "tokens": [
+      "Bismarck",
+      "Otto",
+      "lehnte",
+      "den",
+      "französischen",
+      "Besitz",
+      "in",
+      "Afrika"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bismarck, Otto"]
+  },
+  {
+    "tokens": [
+      "Heinrich",
+      "Blücher",
+      "Arendts",
+      "zweiter",
+      "Ehemann"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Blücher, Heinrich"]
+  },
+  {
+    "tokens": [
+      "Konflikt",
+      "dauernd",
+      "wieder",
+      "aufleben",
+      "zu",
+      "lassen",
+      "Kurt",
+      "Blumenfeld"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Blumenfeld, Kurt"]
+  },
+  {
+    "tokens": [
+      "die",
+      "er",
+      "bei",
+      "Felix",
+      "Boenheim",
+      "in",
+      "New",
+      "York",
+      "hinterlassen",
+      "hatte"
+    ],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Boenheim, Felix"]
+  },
+{
+    "tokens": [
+      "Rolf",
+      "Bohlenders",
+      "Rezension",
+      "in",
+      "der",
+      "Rheinpfalz",
+      "liest"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bohlender, Rolf"]
+  },
+ {
+    "tokens": [
+      "die",
+      "Jakob",
+      "Böhme",
+      "beim",
+      "Anblick",
+      "eines",
+      "blanken"
+    ],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Böhme, Jakob"]
+  },
+ {
+    "tokens": [
+      "Aus",
+      "Briefen",
+      "an",
+      "Wilhelm",
+      "Bokelmann",
+      "vom",
+      "April",
+      "bis",
+      "Juni"
+    ],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Bokelmann, Georg Wilhelm"]
+  },
+ {
+    "tokens": [
+      "admiration",
+      "of",
+      "Napoleon",
+      "Bonaparte",
+      "man",
+      "of",
+      "action"
+    ],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": ["PER: Bonaparte, Napoleon"]
+  },
+ {
+    "tokens": [
+      "und",
+      "geheilten",
+      "Seele",
+      "stammt",
+      "wie",
+      "bei",
+      "Börne",
+      "Carl"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": ["PER: Börne, Carl Ludwig"]
+  },
+  {
+    "tokens": [
+      "Since",
+      "the",
+      "days",
+      "of",
+      "Borochov",
+      "Ber"
+    ],
+    "ner_tags": [0, 0, 0, 0, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Borochov, Ber"
+    ]
+  },
+  {
+    "tokens": [
+      "Bossuet",
+      "Jacques",
+      "zwingt",
+      "sich",
+      "selbst",
+      "warum",
+      "sollte"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Bossuet, Jacques B\u00e9nigne"
+    ]
+  },
+ {
+    "tokens": [
+      "the",
+      "famous",
+      "dictum",
+      "of",
+      "Justice",
+      "Brandeis",
+      "Louis",
+      "would",
+      "come",
+      "true"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0],
+    "langs": [
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng"
+    ],
+    "spans": [
+      "PER: Brandeis, Louis Dembitz"
+    ]
+  },
+  {
+    "tokens": [
+      "das",
+      "von",
+      "Jammer",
+      "schallt",
+      "Bertolt",
+      "Brecht"
+    ],
+    "ner_tags": [0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Brecht, Bertolt"
+    ]
+  },
+ {
+    "tokens": [
+      "Received",
+      "by",
+      "the",
+      "actress",
+      "Auguste",
+      "Brede",
+      "a",
+      "friend"
+    ],
+    "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0],
+    "langs": [
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng",
+      "eng"
+    ],
+    "spans": [
+      "PER: Brede, Auguste"
+    ]
+  },
+ {
+    "tokens": [
+      "Arnim",
+      "und",
+      "Brentano",
+      "seien",
+      "Autoren",
+      "der",
+      "»nationalsozialistischen",
+      "Judenverfolgung"
+    ],
+    "ner_tags": [1, 0, 2, 0, 0, 0, 0, 0],
+    "langs": [
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu"
+    ],
+    "spans": [
+      "PER: Brentano, Clemens"
+    ]
+  },
+  {
+    "tokens": [
+      "der",
+      "schwedische",
+      "Gesandte",
+      "in",
+      "Berlin",
+      "Gustav",
+      "von",
+      "Brinckmann",
+      "schreibt"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 1, 2, 0],
+    "langs": [
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu"
+    ],
+    "spans": [
+      "PER: Brinckmann, Karl Gustav von"
+    ]
+  },
+  {
+    "tokens": [
+      "Unterhaltung",
+      "und",
+      "Belehrung",
+      "Broch",
+      "Hermann",
+      "entgegenkäme"
+    ],
+    "ner_tags": [0, 0, 0, 1, 2, 0],
+    "langs": [
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu"
+    ],
+    "spans": [
+      "PER: Broch, Hermann"
+    ]
+  },
+   {
+    "tokens": [
+      "Nachwort",
+      "zum",
+      "Schloß",
+      "berichtet",
+      "Max",
+      "Brod"
+    ],
+    "ner_tags": [0, 0, 0, 0, 1, 2],
+    "langs": [
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu"
+    ],
+    "spans": [
+      "PER: Brod, Max"
+    ]
+  },
+  {
+    "tokens": [
+      "Zwischenzeitlich",
+      "hatte",
+      "er",
+      "sich",
+      "an",
+      "Daniel",
+      "Brody",
+      "gewandt"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0],
+    "langs": [
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu",
+      "deu"
+    ],
+    "spans": [
+      "PER: Brody, Daniel"
+    ]
+  },
+   {
+    "tokens": [
+      "edited",
+      "by",
+      "Martin",
+      "Buber"
+    ],
+    "ner_tags": [0, 0, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Buber, Martin"
+    ]
+  },
+ {
+    "tokens": [
+      "des",
+      "liberalen",
+      "Schriftstellers",
+      "Friedrich",
+      "Buchholz",
+      "von",
+      "Haben",
+      "und",
+      "Sein"
+    ],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Buchholz, Friedrich"
+    ]
+  },
+  {
+    "tokens": [
+      "Der",
+      "historische",
+      "Pessimismus",
+      "von",
+      "Burckhardt",
+      "Jacob"
+    ],
+    "ner_tags": [0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Burckhardt, Jacob"
+    ]
+  },
+   {
+    "tokens": [
+      "Wilhelm",
+      "von",
+      "Burgsdorff",
+      "the",
+      "close",
+      "friend",
+      "of"
+    ],
+    "ner_tags": [1, 1, 2, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Burgsdorff, Friedrich Wilhelm von"
+    ]
+  },
+  {
+    "tokens": [
+      "in",
+      "those",
+      "days",
+      "when",
+      "he",
+      "began",
+      "to",
+      "think",
+      "like",
+      "Burke",
+      "Edmund"
+    ],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Burke, Edmund"
+    ]
+  },
+  {
+    "tokens": [
+      "Günther",
+      "Busch",
+      "meinte",
+      "in",
+      "den",
+      "Neuen",
+      "Deutschen",
+      "Heften"
+    ],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Busch, G\u00fcnther"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+  "tokens": ["whom", "all", "the", "men", "were", "in", "love", "with", "there", "was", "Christel", "Eigensatz"],
+  "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+  "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Eigensatz, Christiane"
+    ]
+  },
+  {
+  "tokens": ["des", "Deutschen", "Almanachs", "für", "das", "Jahr", "1932", "war", "Wolfgang", "von", "Einsiedel"],
+  "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2],
+  "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+  "spans": [
+      "PER: Einsiedel, Wolfgang von"
+    ]
+  },
+  {
+  "tokens": ["or", "his", "last", "great", "passion", "for", "the", "young", "dancer", "Fanny", "Elssler"],
+  "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+  "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: El\u00dfler, Fanny"
+    ]
+  },
+  {
+  "tokens": ["und", "freute", "mich", "auf", "Fannys", "und", "Theresens", "Elßler", "Kommen"],
+  "ner_tags": [0, 0, 0, 0, 1, 0, 1, 2, 0],
+  "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: El\u00dfler, Therese"
+    ]
+  },
+ {
+  "tokens": ["Friedrich", "Engels", "saw", "the", "affinity", "between", "the", "basic", "convictions", "of", "the", "two", "men"],
+  "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Engels, Friedrich"
+    ]
+  },
+  {
+  "tokens": ["as", "Hesiod", "in", "his", "praise", "of", "Eris", "wants", "us", "to", "believe"],
+  "ner_tags": [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+  "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Eris"
+    ]
+  },
+  {
+  "tokens": ["Frau", "Mariane", "von", "Eybenberg", "lebt", "bis", "zu", "ihrem", "Tode", "in", "Wien", "in", "der", "großen", "Gesellschaft"],
+  "ner_tags": [0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Eybenberg, Mariane von"
+    ]
+  },
+  {
+    "tokens": ["auf", "eigene", "Faust", "mit", "sich", "und", "der", "Welt", "fertig", "zu", "werden"],
+    "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Faust"
+    ]
+  },
+  {
+    "tokens": ["Darnach", "las", "ich", "François", "Fénelons", "und", "Bossuets", "Leben", "von", "Beausset"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 2, 0, 0, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: F\u00e9nelon, Fran\u00e7ois"
+    ]
+  },
+  {
+    "tokens": ["Adam", "Ferguson", "&", "Adam", "Smith"],
+    "ner_tags": [1, 2, 0, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Ferguson, Adam"
+    ]
+  },
+  {
+    "tokens": ["Responsible", "for", "stewarding", "the", "book", "through", "to", "publication", "was", "John", "Ferrone"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Ferrone, John"
+    ]
+  },
+   {
+    "tokens": ["as", "Ludwig", "Feuerbach", "was", "when", "he", "wrote", "his", "Essence", "of", "Christianity"],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "deu", "deu", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Feuerbach, Ludwig"
+    ]
+  },
+{
+    "tokens": ["Johann", "Fichte", "himself", "expressly", "referred", "to", "these", "addresses", "as", "the", "continuation", "of", "his", "lectures"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Fichte, Johann Gottlieb"
+    ]
+  },
+  {
+    "tokens": ["Finckenstein", "kommt", "als", "Repräsentant", "von", "all", "dem"],
+    "ner_tags": [2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Finck Finckenstein, Karoline von"
+    ]
+  },
+   {
+    "tokens": ["Karl", "Finckenstein", "and", "his", "three", "sisters", "had", "grown", "up", "in", "the", "ancestral", "house"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Finckenstein, Karl von"
+    ]
+  },
+  {
+    "tokens": ["mit", "welcher", "Ergriffenheit", "Kafka", "ihn", "einst", "auf", "jene", "Anekdote", "über", "Gustave", "Flaubert", "aufmerksam", "gemacht", "habe"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Flaubert, Gustave"
+    ]
+  },
+  {
+    "tokens": ["there", "were", "the", "famous", "actor", "Johann", "Fleck", "and", "the", "actress", "Unzelmann"],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "deu", "deu", "eng", "eng", "eng", "deu"],
+    "spans": [
+      "PER: Fleck, Johann"
+    ]
+  },
+  {
+    "tokens": ["aus", "Dank", "und", "Wunder", "der", "Fortuna", "den", "Staub", "von", "den", "Füßen"],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Fortuna"
+    ]
+  },
+ {
+    "tokens": ["unter", "Brücken", "zu", "schlafen", "und", "Brot", "zu", "stehlen", "(", "Anatole", "France", ")"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: France, Anatole"
+    ]
+  },
+  {
+    "tokens": ["something", "which", "Francisco", "Franco", "who", "comes", "from", "the", "military", "hierarchy"],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "spa", "spa", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Franco, Francisco"
+    ]
+  },
+   {
+    "tokens": ["bat", "sie", "Hilde", "Fränkel", "in", "New", "York"],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "eng", "eng"],
+    "spans": [
+      "PER: Fr\u00e4nkel, Hilde"
+    ]
+  },
+   {
+    "tokens": ["Kaiser", "Franz", "kam", "mir", "auf", "der", "Treppe", "entgegen"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Franz, Kaiser"
+    ]
+  },
+  {
+    "tokens": ["This", "embarrassing", "offer", "was", "made", "by", "David", "Friedländer", "at", "a", "time"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "deu", "deu", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Friedl\u00e4nder, David"
+    ]
+  },
+   {
+    "tokens": ["Rahel", "told", "her", "life", "story", "to", "a", "certain", "Rebecca", "Friedländer"],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "deu", "deu"],
+    "spans": [
+      "PER: Friedl\u00e4nder, Rebecca"
+    ]
+  },
+ {
+    "tokens": ["The", "translation", "is", "borrowed", "from", "Carl", "Joachim", "Friedrich", "’s", "Inevitable", "Peace"],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "deu", "deu", "deu", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Friedrich, Carl Joachim"
+    ]
+  },
+  {
+    "tokens": ["Ein", "zweites", "Exemplar", "gab", "Arendt", "ihrem", "Vetter", "Ernst", "Fürst", "und", "dessen", "Frau", "Käte"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 1, 2, 0, 0, 0, 1],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: F\u00fcrst, Ernst"
+    ]
+  },
+  {
+    "tokens": ["dass", "ich", "es", "Dir", "schicken", "soll", "so", "Käte", "Fürst", "am", "22", "Mai", "1968"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: F\u00fcrst, K\u00e4te"
+    ]
+  }
+]
