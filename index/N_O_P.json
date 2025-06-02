@@ -1,0 +1,322 @@
+[
+  {
+    "tokens": ["Nero", "in", "his", "insanity", "wished", "to", "be", "confronted", "only", "with", "one", "head", "so", "that", "the", "tranquillity", "of", "his", "rule"],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Nero"
+    ]
+  },
+  {
+    "tokens": ["There", "followed", "the", "publication", "of", "a", "satirical", "novel", "written", "together", "with", "his", "friend", "Friedrich", "Wilhelm", "Neumann"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Neumann, Friedrich Wilhelm"
+    ]
+  },
+ {
+    "tokens": ["Viele", "Jahre", "später", ",", "im", "Januar", "1965", ",", "schrieb", "Jacob", "Neusner", "für", "den", "Connecticut", "Jewish", "Ledger"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Neusner, Jacob"
+    ]
+  },
+  {
+    "tokens": ["he", "was", "already", "being", "spoken", "of", "in", "the", "same", "breath", "as", "the", "other", "“learned", "men", "of", "Berlin”", ",", "Ramler", ",", "Christoph", "Nicolai", "and", "Lessing"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 2, 0, 2],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Nicolai, Christoph Friedrich"
+    ]
+  },
+  {
+    "tokens": ["In", "Friedrich", "Nietzsche", "’s", "words", ":", "“If", "there", "were", "a", "God", ",", "how", "could", "I", "bear", "not", "to", "be", "one", "”"],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Nietzsche, Friedrich"
+    ]
+  },
+   {
+    "tokens": ["E-Mail", "von", "Scout", "Noffke", ",", "Rauner", "Special", "Collections", "Library"],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Noffke, Scout"
+    ]
+  },
+ {
+    "tokens": ["Varnhagen", "hat", "mir", "wieder", "einen", "Liebesbrief", "geschrieben", ",", "mit", "einer", "Einlage", "von", "Karl", "von", "Nostitz", "an", "mich", ",", "recht", "artig", "in", "jeder", "Art"],
+    "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Nostitz, Karl von"
+    ]
+  },
+  {
+    "tokens": ["So", "sagt", "Novalis", ":", "›Nur", "Geister", "können", "gezwungen", "werden"],
+    "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Novalis"
+    ]
+  },
+  {
+    "tokens": ["In", "Sophocles", "’", "King", "Oedipus", ",", "which", "is", "the", "great", "tragedy", "of", "doxa"],
+    "ner_tags": [0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Oedipus"
+    ]
+  },
+ {
+    "tokens": ["Briefwechsel", "zwischen", "Varnhagen", "von", "Ense", "und", "Konrad", "Engelbert", "Oelsner"],
+    "ner_tags": [0, 0, 1, 1, 2, 0, 1, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Oelsner, Konrad Engelbert"
+    ]
+  },
+  {
+    "tokens": ["he", "asked", "Paulus", "Orosius", "to", "write", "a", "world", "history", ",", "he", "commissioned", "him"],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Orosius, Paulus"
+    ]
+  },
+  {
+    "tokens": ["Er", "komme", "und", "sage", "es", "mir", "zum", "zweiten", "Male", ",", "sagt", "Gräfin", "Orsina"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Orsina, Gr\u00e4fin"
+    ]
+  },
+  {
+    "tokens": ["But", "I", "find", "Ottilie", "particularly", "repulsive"],
+    "ner_tags": [0, 0, 0, 1, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Ottilie"
+    ]
+  },
+  {
+    "tokens": ["Für", "die", "fünfzig", "Minuten", "lange", "Radiosendung", "stellte", "Anna", "Ozana", "eine", "Montage", "für", "zwei", "Stimmen", "zusammen"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Ozana, Anna"
+    ]
+  },
+  {
+    "tokens": ["She", "was", "spending", "the", "summer", "with", "Countess", "Johann", "von", "Pachta", "and", "was", "happy", "to", "have", "a", "companion"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Pachta, Johann von"
+    ]
+  },
+  {
+    "tokens": ["Josephine", "von", "Pachta", "put", "the", "matter", "more", "clearly", "and", "precisely"],
+    "ner_tags": [1, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Pachta, Josephine von"
+    ]
+  },
+   {
+    "tokens": ["due", "“", "to", "our", "wickedness", "”", "in", "the", "words", "of", "Tomas", "Paine", "—", "needs", "justification", "in", "terms", "of", "a", "telos"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Paine, Thomas"
+    ]
+  },
+  {
+    "tokens": ["sofern", "sie", "trotz", "aller", "Mannigfaltigkeit", "und", "scheinbaren", "Widerspruchsvollheit", "seit", "Parmenides", "nicht", "daran", "zu", "zweifeln", "gewagt", "hat", ":", "to", "gar", "auto", "esti", "noein", "te", "kai", "einai"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "grc", "grc", "grc", "grc", "grc", "grc", "grc"],
+    "spans": [
+      "PER: Parmenides"
+    ]
+  },
+  {
+    "tokens": ["he", "jump", "into", "faith", "by", "Pascal", "and", "Kierkegaard", "from", "reason", "brought", "doubt"],
+    "ner_tags": [0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Pascal, Blaise"
+    ]
+  },
+  {
+    "tokens": ["as", "the", "contemporary", "liberal", "theologian", "Heinrich", "Eberhard", "Gottlob", "Paulus", "once", "brilliantly", "phrased", "it"],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Paulus, Heinrich Eberhard"
+    ]
+  },
+  {
+    "tokens": ["Es", "war", ",", "glaube", "ich", ",", "Charles", "Péguy", ",", "der", "den", "Familienvater"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: P\u00e9guy, Charles"
+    ]
+  },
+  {
+    "tokens": ["peithein", "was", "so", "much", "the", "specifically", "Greek", "way", "of", "winning", "prominence", "and", "predominance", ",", "that", "Peitho", ",", "persuasion", "was", "revered", "as", "deity", "in", "Athens"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Peitho"
+    ]
+  },
+  {
+    "tokens": ["Pericles", "counted", "it", "under", "the", "things", "Athenians", "could", "be", "justly", "proud", "of", "that", "they", "did", "not", "think", "that", "words"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Pericles"
+    ]
+  },
+  {
+    "tokens": ["For", "this", "and", "later", "references", "to", "Arab-Jewish", "negotiations", ",", "see", "Moshe", "Perlmann", "’", "s", "“", "Chapters", "of", "Arab-Jewish", "Diplomacy"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Perlmann, Moshe"
+    ]
+  },
+  {
+    "tokens": ["Aurelie", ",", "unhappily", "in", "love", "with", "Lothario", ",", "or", "Philine", ",", "who", "irrepressibly", "found", "the", "appropriate", "phrase"],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Philine"
+    ]
+  },
+   {
+    "tokens": ["When", "Achilles", "was", "prepared", "by", "his", "educator", "Phoenix", "for", "a", "short", "life", "of", "supreme", "action"],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Phoenix"
+    ]
+  },
+  {
+    "tokens": ["Robert", "Pick", ",", "der", "damals", "als", "Lektor", "bei", "Alfred", "Knopf", "arbeitete", ",", "schrieb", "ihr", "am", "23", "September", "1957"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Pick, Robert"
+    ]
+  },
+   {
+    "tokens": ["even", "before", "Pindar", ",", "the", "plurality", "of", "human", "political", "laws", "was", "brought", "into", "the", "closest", "possible", "relationship", "with", "this", "one", "cosmic", "law"],
+    "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Pindar"
+    ]
+  },
+   {
+    "tokens": ["Als", "ihr", "Artikel", "erschien", ",", "war", "–", "noch", "–", "Hans", "Wilhelm", "Pinkow", "Chefredakteur"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Pinkow, Hans Wilhelm"
+    ]
+  },
+  {
+    "tokens": ["obgleich", "das", "unnötig", "ist", ",", "da", "Sie", "bei", "Elisabeth", "Piper", "ohne", "mich", "eine", "so", "hohe", "Geltung", "haben"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Piper, Elisabeth"
+    ]
+  },
+ {
+    "tokens": ["Als", "Arendt", "1956", "ihr", "Vorwort", "an", "Klaus", "Piper", "schickte", ",", "lautete", "der", "Untertitel", "Eine", "Lebensgeschichte", "aus", "dem", "Beginn", "der", "Assimilation", "der", "deutschen", "Juden"],
+    "ner_tags": [0, 2, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Piper, Klaus"
+    ]
+  },
+  {
+    "tokens": ["Das", "besagt", "nicht", "mehr", "und", "nicht", "weniger", ",", "als", "daß", "die", "Philosophie", ",", "die", "seit", "Plato", "nur", "im", "Begriffe", "denkt"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Plato"
+    ]
+  },
+  {
+    "tokens": ["Autobiographie", "einer", "Kultur", "und", "Theodor", "Plieviers", "Stalingrad", ",", "das", "sich", "in", "Arendts", "Bibliothek", "findet"],
+    "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 2, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Plievier, Theodor"
+    ]
+  },
+  {
+    "tokens": ["the", "concluding", "vision", "in", "Plutarch", "'s", "Delays", "of", "Divine", "Justice"],
+    "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Plutarch"
+    ]
+  },
+   {
+    "tokens": ["Ich", "bin", "gelassen", "im", "handelnden", "Leben", ",", "wie", "Polonius", "nach", "dem", "Tod"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Polonius"
+    ]
+  },
+  {
+    "tokens": ["Er", "fragte", "Carl", "Posen", ",", "den", "Leiter", "des", "gleichnamigen", "Verlags", "in", "Zürich"],
+    "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Posen, Carl"
+    ]
+  },
+   {
+    "tokens": ["the", "essay", "appeared", "in", "the", "Cahiers", "Juifs", ",", "a", "Zionist", "journal", ",", "edited", "by", "David", "Prato", ",", "at", "the", "time", "a", "rabbi", "in", "Alexandria"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Prato, David"
+    ]
+  },
+   {
+    "tokens": ["»", "Rahel", "irrte", ",", "wenn", "sie", "in", "der", "jüdischen", "Abkunft", "den", "größten", "Fluch", "erblickte", "«", ",", "schrieb", "Helge", "Pross"],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Pross, Helge"
+    ]
+  },
+  {
+    "tokens": ["His", "reply", "to", "Protagoras", "that", "not", "man", ",", "but", "a", "god", "is", "the", "measure", "of", "all", "things", "human"],
+    "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Protagoras"
+    ]
+  },
+  {
+    "tokens": ["Fünfzehn", "Jahre", "später", "berichtete", "Marcel", "Proust", "in", "Le", "Temps", "Retrouvé"],
+    "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Proust, Marcel"
+    ]
+  }
+]
