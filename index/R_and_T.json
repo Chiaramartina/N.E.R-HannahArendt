@@ -1,0 +1,372 @@
+[
+  {
+  "tokens": ["So", "auch", "Jean-Baptiste", "Racine", ",", "und", "Voltaire", ",", "und", "all", "die", "anderen", ",", "die", "sie", "jetzt", "verachten", "wollen"],
+  "ner_tags": [0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Racine, Jean-Baptiste"
+    ]
+  },
+  {
+    "tokens": ["He", "came", "accompanied", "by", "his", "mistress", ",", "Pauline", "Wiesel", ",", "and", "by", "his", "brother-in-law", ",", "Prince", "Anton", "Heinrich", "von", "Radziwill"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Radziwi\u0142\u0142, Anton Heinrich von"
+    ]
+  },
+   {
+    "tokens": [".", "Philip", "Rahv", "las", "es", "sofort", ":", "»", "Yesterday", "I", "sat", "down", "and", "read", "about", "two", "thirds", "of", "the", "Rahel", "Varnhagen", "in", "one", "sitting", "«"],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Rahv, Philip"
+    ]
+  },
+ {
+    "tokens": ["he", "was", "already", "being", "spoken", "of", "in", "the", "same", "breath", "as", "the", "other", "“", "learned", "men", "of", "Berlin", "”", ",", "Ramler", ",", "Nicolai", "and", "Lessing"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 2],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Ramler, Karl Wilhelm"
+    ]
+  },
+ {
+    "tokens": ["An", "Leopold", "von", "Ranke", "in", "Berlin"],
+    "ner_tags": [0, 1, 1, 2, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Ranke, Leopold von"
+    ]
+  },
+   {
+    "tokens": ["die", "Korrespondenzen", "mit", "Friedrich", "Gentz", ",", "Carl", "Friedrich", "von", "Redtel", "sowie", "Bettina", "von", "Arnim"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 1, 1, 1, 2, 0, 1, 1, 2],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Redtel, Carl von"
+    ]
+  },
+   {
+    "tokens": ["Und", "ein", "gewisses", "wildes", "Tier", "aus", "Böhmen", ",", "der", "Reiche", "heisst", "und", "sich", "Musikus", "nennt"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Reiche, Herr"
+    ]
+  },
+  {
+    "tokens": ["Herodotus", "is", "not", "merely", "the", "first", "historiographer", ";", "“", "history", "exists", "since", "Herodotus", "”", "in", "the", "words", "of", "Karl", "Reinhard"],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Reinhardt, Karl"
+    ]
+  },
+  {
+    "tokens": ["der", "auch", "nur", "einigermaßen", "zeichnen", "konnte", ",", "den", "künftigen", "Rembrandt", ",", "jedes", "musikalische", "Kind", "den", "dämonischen", "Beethoven", "zu", "spielen"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Rembrandt"
+    ]
+  },
+   {
+    "tokens": ["Nettchen", "Renaud", "Marcuse", "ist", "tot", ";", "im", "Juli", "wird", "’s", "drei", "Jahre"],
+    "ner_tags": [1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Renaud Marcuse, Nettchen"
+    ]
+  },
+  {
+    "tokens": ["Roman", "Empire", "or", "as", "“", "lust", "for", "conquest", "”", "by", "describing", "Cecil", "Rhodes", "in", "categories", "which", "are", "adequate", "for", "Napoleon"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Rhodes, Cecil"
+    ]
+  },
+  {
+    "tokens": ["Rache", "möcht’", "ich", "endlich", "an", "mir", ",", "an", "ihnen", ";", "an", "meinen", "Richtern", ":", "allen", "Umständen"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+
+    "spans": [
+      "PER: Richter, Johann Paul Friedrich"
+    ]
+  },
+ {
+    "tokens": ["Lilly", "Rivlin", "bemängelte", "in", "der", "feministischen", "Zeitschrift", "Ms.", "eine", "»", "harsh", ",", "often", "condemning", "narration"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","eng","eng","eng","eng","eng"],
+
+    "spans": [
+      "PER: Rivlin, Lilly"
+    ]
+  },
+  {
+    "tokens": ["Ferdinand", "Robert-Tornow", ",", "der", "Sammler", "und", "die", "Seinigen"],
+    "ner_tags": [2, 1, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Robert-Tornow, Ferdinand"
+    ]
+  },
+   {
+    "tokens": ["Dem", "folgten", "die", "Briefwechsel", "mit", "den", "Geschwistern", "Marcus", "Theodor", "Robert", "und", "Rose", "Asser"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Robert-Tornow, Marcus"
+    ]
+  },
+  {
+    "tokens": ["What", "Moritz", "gives", "me", "is", "pure", "generosity"],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Robert-Tornow, Moritz"
+    ]
+  },
+   {
+    "tokens": ["Nicht", "Rahel", "Levin", ",", "Friederike", "Robert", "wie", "ein", "Zauberwort", "wird", "der", "neue", "Name", "ihr", "helfen", ",", "ein", "Mensch", "unter", "Menschen", "zu", "werden"],
+    "ner_tags": [0, 1, 2, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Robert, Friederike"
+    ]
+  },
+  {
+    "tokens": ["Therefore", "she", "decided", "to", "follow", "the", "example", "of", "her", "brother", "Ludwig", "Robert", "and", "call", "herself", "Rahel", "Robert"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 2, 1],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Robert, Ludwig"
+    ]
+  },
+  {
+    "tokens": ["Zwar", "hat", "das", "instinktive", "Mißtrauen", "nationaler", "Staatsmänner", "gegen", "Kolonialpolitik", ",", "dem", "nur", "Robert", "Robespierre", "mit", "seinem"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Robespierre, Maximilien de"
+    ]
+  },
+  {
+    "tokens": ["Überraschend", ",", "dass", "Hannah", "Arendt", "ihrem", "Buch", "Strophen", "von", "Edwin", "Arlington", "Robinson", "voranstellte"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 1, 1, 2, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Robinson, Edwin Arlington"
+    ]
+  },
+ {
+    "tokens": ["Schon", "Henri", "de", "Rohan", "erklärte", "bekanntlich", ":", "Die", "Könige", "regieren", "die", "Völker", "und", "das", "Interesse", "regiert", "die", "Könige"],
+    "ner_tags": [0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Rohan, Henri de"
+    ]
+  },
+  {
+    "tokens": ["wie", "Roller", "vom", "Galgen", ",", "zu", "mir", "stürzte", ",", "um", "mir", "die", "Stadt", "als", "saccagiert", "vorzustottern", "hatte"],
+    "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Roller"
+    ]
+  },
+  {
+    "tokens": ["als", "Rommels", "Erwin", "Armee", "die", "Juden", "in", "Palästina", "mit", "genau", "dem", "gleichen", "Schicksal", "bedrohte", "wie", "in", "den", "europäischen", "Ländern"],
+    "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Rommel, Erwin"
+    ]
+  },
+   {
+    "tokens": ["die", "sowohl", "Präsident", "Franklin", "Roosevelt", "als", "auch", "Gouverneur", "Dewey", "zur", "Wahlkampfzeit", "abgegeben", "haben"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 2, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Roosevelt, Franklin D."
+    ]
+  },
+  {
+    "tokens": ["Ruth", "Rosenau", ",", "die", "damals", "am", "Adams", "State", "College", "in", "Alamosa", ",", "Colorado", ",", "lehrte", ",", "wurde", "ausführlicher"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Rosenau, Ruth"
+    ]
+  },
+  {
+    "tokens": ["Unter", "dieser", "Überschrift", "findet", "sich", "ein", "paar", "Seiten", "weiter", "eine", "Kolumne", "von", "Hans", "Rosenkranz"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Rosenkranz, Hans"
+    ]
+  },
+  {
+    "tokens": ["Gerade", "auch", "für", "»", "diese", "Art", "von", "Buechern", "«", ",", "wie", "Arendt", "Texte", "dieses", "Genres", "in", "einem", "Brief", "an", "Hans", "Rößner", "nannte"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: R\u00f6\u00dfner, Hans"
+    ]
+  },
+   {
+    "tokens": ["His", "insights", "are", "in", "substance", "much", "more", "“", "revolutionary", "”", "and", "at", "the", "same", "time", "more", "lastingly", "positive", "than", "those", "of", "Jean-Jacques", "Rousseau"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Rousseau, Jean-Jacques"
+    ]
+  },
+  {
+    "tokens": ["Inzwischen", "geht", "es", "weder", "darum", ",", "das", "Selbstverständliche", "zu", "beweisen", ",", "nämlich", "daß", "Deutsche", "nicht", "seit", "Tacitus", "’", "Zeiten", "bereits", "latente", "Nazis", "waren"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Tacitus"
+    ]
+  },
+    {
+    "tokens": ["So", "wirft", "sich", "nur", "Tasso", "andern", "hin", "in", "die", "Hände"],
+    "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Tasso"
+    ]
+  },
+  {
+    "tokens": ["Provost", "Teller", ",", "a", "liberal", "and", "enlightened", "theologian", "to", "whom", "the", "epistle", "had", "been", "addressed"],
+    "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Teller, Wilhelm Abraham"
+    ]
+  },
+  {
+    "tokens": ["as", "in", "Plato", "and", "Aristotle", ",", "or", "in", "Christian", "terms", "which", "since", "Tertullian", "held", "that"],
+    "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tertullian"
+    ]
+  },
+  {
+    "tokens": ["who", "later", "proved", "useful", "to", "him", ",", "and", "Friedrich", "von", "Tettenborn", ",", "under", "whom", "he", "served", "in", "the", "war", "of", "1813"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tettenborn, Friedrich von"
+    ]
+  },
+  {
+    "tokens": ["Anaxagoras", "&", "Thales", "were", "wise", ",", "but", "not", "understanding", "men", "."],
+    "ner_tags": [1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Thales"
+    ]
+  },
+  {
+    "tokens": ["essentially", "it", "is", "“", "not", "of", "this", "world", "”", ",", "be", "it", "that", "Plato", "describes", "the", "philosopher", "(", "Theaitetos", ")"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Theaetetus"
+    ]
+  },
+  {
+    "tokens": ["mythologically", "speaking", ",", "the", "Greeks", "saw", "in", "King", "’", "s", "Theseus", "’", "foundation", "of", "Athens", "the", "last", "and", "the", "greatest", "kingly", "enterprise"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Theseus"
+    ]
+  },
+ {
+    "tokens": ["Far", "more", "conventional", "was", "the", "attendance", "of", "all", "the", "well-known", "writers", "and", "publicists", "of", "the", "period", "in", "her", "room", ":", "Ludwig", "and", "Friedrich", "Tieck", ",", "Adelbert", "von", "Chamisso"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 2, 2],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tieck, Friedrich"
+    ]
+  },
+   {
+    "tokens": ["Ludwig", "Tieck", "und", "Wiesel"],
+    "ner_tags": [1, 2, 0, 1],
+    "langs": ["deu","deu","deu","deu"],
+    "spans": [
+      "PER: Tieck, Ludwig"
+    ]
+  },
+   {
+    "tokens": ["Count", "Alexandre", "de", "Tilly", ",", "who", "spoke", "“", "tremendously", "well", "”"],
+    "ner_tags": [0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tilly, Alexandre de"
+    ]
+  },
+   {
+    "tokens": ["one-party", "dictatorship", "whose", "power", "lay", "chiefly", "in", "the", "party-bureaucracy", "which", "today", "is", "tried", "once", "more", "by", "Tito"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tito"
+    ]
+  },
+  {
+    "tokens": ["but", "be­cause", ",", "as", "one", "can", "learn", "from", "Tocqueville", ",", "the", "bureaucracy", "of", "the", "ancien", "regime", "survived", "and", "has", "survived", "until", "today"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Tocqueville, Alexis de"
+    ]
+  },
+  {
+    "tokens": ["Die", "osteuropäische", "Bewegung", "hatte", "lange", "Zeit", "eine", "so", "starke", "Affinität", "zu", "einem", "Tolstoischen", "Sozialismus"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Tolstoi, Leo"
+    ]
+  },
+   {
+    "tokens": ["but", "more", "recently", "Arnold", "Toynbee", "’", "s", "challenge", "and", "response", "or", "Max", "Weber", "’", "s", "ideal", "types"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Toynbee, Arnold J."
+    ]
+  },
+  {
+    "tokens": ["Seit", "Heinrich", "von", "Treitschke", "den", "Antisemitismus", "salonfähig", "gemacht", "hatte"],
+    "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","deu","deu"],
+    "spans": [
+      "PER: Treitschke, Heinrich von"
+    ]
+  },
+   {
+    "tokens": ["Trotzki", "hat", "einmal", "in", "einer", "Variation", "des", "Right", "or", "wrong", "my", "country", "gemeint"],
+    "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu","deu","deu","deu","deu","deu","deu","eng","eng","eng","eng","eng","deu"],
+    "spans": [
+      "PER: Trotzki, Leon"
+    ]
+  },
+  {
+    "tokens": ["he", "felt", "for", "the", "America", "of", "the", "end", "of", "the", "century", "the", "same", "gloomy", "despair", "that", "Henry", "Adams", "and", "Mark", "Twain", "felt"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 1, 2, 0],
+    "langs": ["eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng","eng"],
+    "spans": [
+      "PER: Twain, Mark"
+    ]
+  }
+]
