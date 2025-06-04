@@ -1,0 +1,66 @@
+[
+  {
+    "tokens": ["Mittags", "war", ",", "da", "wurde", "eins", "zu", "zwei", "und", "Zarathustra", "ging", "an", "mir", "vorbei"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Zarathustra"
+    ]
+  },
+  {
+    "tokens": ["Bernhard", "Zeller", ",", "der", "damalige", "Direktor", "des", "DLA", ",", "war", "der", "Sache", "gleich", "nachgegangen"],
+    "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Zeller, Bernhard"
+    ]
+  },
+  {
+    "tokens": ["ich", "war", "heute", "bei", "Carl", "Zelter", "an", "der", "Liedertafel", ",", "wo", "man", "aber", "für", "Gesang", "zu", "ernsthaft", "ist"],
+    "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Zelter, Carl Friedrich"
+    ]
+  },
+  {
+    "tokens": ["as", "indeed", "it", "always", "has", "been", "since", "Plato", "invoked", "Zeus", ",", "the", "God", "of", "the", "boundaries", ",", "in", "his", "Laws"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Zeus"
+    ]
+  },
+  {
+    "tokens": ["Auch", "von", "den", "Freunden", ",", "denen", "Arendt", "nach", "dem", "Krieg", "begegnet", "war", ",", "lebten", "nur", "wenige", "in", "Deutschland", ":", "Johannes", "Zilkens", ",", "Marianne", "Zilkens"],
+    "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 2],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Zilkens, Johannes"
+    ]
+  },
+  {
+    "tokens": ["Ähnlich", "äußerte", "sich", "Harry", "Zohn", "in", "den", "Jewish", "Social", "Studies", "über", "Arendts", "biographisches", "Verfahren"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "eng", "eng", "eng", "deu", "deu", "deu", "deu"],
+    "spans": [
+      "PER: Zohn, Harry"
+    ]
+  },
+  {
+    "tokens": ["19.", "März", "1939", "bat", "sie", "Volkmar", "von", "Zühlsdorff", ",", "den", "Sekretär", "der", "Guild"],
+    "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0],
+    "langs": ["deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "deu", "eng"],
+    "spans": [
+      "PER: Z\u00fchlsdorff, Volkmar von"
+    ]
+  },
+  {
+    "tokens": ["Not", "one", "of", "Stefan", "Zweig", "reactions", "during", "all", "this", "period", "was", "the", "result", "of", "political", "convictions"],
+    "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "langs": ["eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng", "eng"],
+    "spans": [
+      "PER: Zweig, Stefan"
+    ]
+  }
+]
