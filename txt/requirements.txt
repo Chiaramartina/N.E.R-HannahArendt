@@ -1,6 +1,0 @@
-spacy
-spacy[transformers]
-spacy-transformers
-jsonlines
-tqdm
-
